@@ -17,7 +17,7 @@ Overall, Port Perry's infrastructure challenges stem from its growth and popular
 #
 ### Scugog
 
-![Lake Scugog](https://github.com/user-attachments/assets/d7cf8c40-0b0f-4ec0-9bb2-13d8ebedd61f)
+![Lake Scugog](https://github.com/user-attachments/assets/ea2c6a40-3480-4952-a5c0-9053b38e6803)
 
 Scugog is a picturesque township located in the Regional Municipality of Durham, Ontario, known for its scenic landscapes and being home to the charming Lake Scugog. The township, which includes the town of Port Perry, has a strong rural character with agriculture being an important part of the local economy. Lake Scugog itself is a man-made body of water, popular for boating, fishing, and recreational activities, and it significantly enhances the natural beauty of the area. Scugog has grown as a commuter community due to its proximity to larger urban centers like Oshawa and Toronto, offering a peaceful lifestyle while still being accessible to city amenities.
 
