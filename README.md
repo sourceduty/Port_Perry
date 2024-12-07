@@ -128,6 +128,10 @@ Toronto, Canada's largest city, is uniquely situated as a metropolitan hub surro
 The layering of Toronto within this urban expanse underscores its role as a core surrounded by concentric waves of suburban and smaller urban centers. Each neighboring city contributes to the region's diversity and economy while benefiting from Toronto’s global connectivity and resources. For example, Pickering and Ajax offer quieter, suburban lifestyles for commuters working in Toronto, while cities like Mississauga and Vaughan host large corporate headquarters and industrial parks, amplifying the GTA’s economic strength. This spatial arrangement creates a symbiotic relationship, where Toronto thrives as a central hub while fostering the growth and development of its surrounding cities.
 
 #
+
+> Alex: "*Toronto is wide, dense and always effected by lake Ontario.*"
+
+#
 ### Related Links
 
 [Energy Systems](https://github.com/sourceduty/Energy_Systems)
