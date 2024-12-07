@@ -142,6 +142,8 @@ Ontario, Canada, is the country's most populous province, home to over 14 millio
 
 Ontario is also a cultural mosaic, with its population reflecting a wide range of ethnic backgrounds and traditions. This diversity is celebrated in numerous cultural festivals, museums, and events held throughout the year. The province is a leader in education and research, hosting world-renowned institutions like the University of Toronto and McMaster University. Additionally, Ontario’s role as a political center and economic powerhouse places it at the heart of Canadian affairs, shaping policies and trends that impact the entire nation. With its combination of urban sophistication, natural beauty, and cultural vibrancy, Ontario remains a pivotal region in Canada's identity and development.
 
+There are an estimated 250,000 islands, many of which are found in its extensive system of freshwater lakes and rivers. The Thousand Islands region in the St. Lawrence River is particularly famous, containing over 1,800 islands alone. Other notable island clusters are in Lake Huron's Georgian Bay, where the 30,000 Islands archipelago holds the title of the world's largest freshwater archipelago. These islands range from tiny, rocky outcrops to larger, inhabited areas, showcasing Ontario's vast and varied natural landscape.
+
 #
 
 > Alex: "*Toronto is wide, dense and always affected by Lake Ontario.*"
