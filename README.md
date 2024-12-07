@@ -172,6 +172,8 @@ Ontario is also a cultural mosaic, with its population reflecting a wide range o
 [Urban Update](https://github.com/sourceduty/Urban_Update)
 <br>
 [No Maintenance Build](https://github.com/sourceduty/No_Maintenance_Build)
+<br>
+[Structura Design](https://github.com/sourceduty/Structural_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
