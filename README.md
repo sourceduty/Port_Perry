@@ -140,6 +140,8 @@ Ontario is also a cultural mosaic, with its population reflecting a wide range o
 
 > Alex: "*Toronto is wide, dense and always affected by Lake Ontario.*"
 
+> "*Every "the city" is crumbling, being maintained and constructed.*"
+
 #
 ### Related Links
 
