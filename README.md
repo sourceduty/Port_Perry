@@ -119,7 +119,7 @@ Innovating old buildings into modern designs instead of renovating involves reim
 This process of innovation fosters creativity in architecture, as it offers endless possibilities for blending old-world craftsmanship with 21st-century design. The outcome can result in a functional space that addresses modern needs like energy efficiency, while still paying homage to the original architectural form. In addition, innovating is often more adaptable, allowing for larger structural changes, such as additions or the introduction of new materials that better suit today’s lifestyles. It also promotes urban revitalization by transforming outdated structures into landmarks of contemporary culture, drawing attention not just to their historical roots but to their futuristic potential.
 
 #
-### Toronto Wide Travel
+### Toronto Wide Travel (Greater Toronto Area (GTA))
 
 ![Wide Toronto](https://github.com/user-attachments/assets/5ea93b95-1c1d-42b7-b1c0-368289849194)
 
