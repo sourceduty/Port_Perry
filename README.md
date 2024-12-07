@@ -129,7 +129,7 @@ The layering of Toronto within this urban expanse underscores its role as a core
 
 #
 
-> Alex: "*Toronto is wide, dense and always affected by lake Ontario.*"
+> Alex: "*Toronto is wide, dense and always affected by Lake Ontario.*"
 
 #
 ### Related Links
