@@ -168,6 +168,8 @@ Ontario is also a cultural mosaic, with its population reflecting a wide range o
 [Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
 <br>
 [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
+<br>
+[Urban Update](https://github.com/sourceduty/Urban_Update)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
