@@ -121,6 +121,7 @@ This process of innovation fosters creativity in architecture, as it offers endl
 #
 ### Toronto Wide Travel (Greater Toronto Area (GTA))
 
+![Toronto](https://github.com/user-attachments/assets/fc11f7c1-7fea-4151-9526-322918fa76e2)
 ![Wide Toronto](https://github.com/user-attachments/assets/5ea93b95-1c1d-42b7-b1c0-368289849194)
 
 Toronto, Canada's largest city, is uniquely situated as a metropolitan hub surrounded by a network of smaller cities that form the Greater Toronto Area (GTA). Cities like Ajax, Pickering, and Oshawa to the east, as well as Burlington and Oakville to the west, create a dynamic urban tapestry where Toronto is both the center and the anchor. These neighboring municipalities are deeply interconnected with Toronto through robust infrastructure, including highways, railways, and public transit systems like GO Transit, facilitating the seamless movement of people and goods. This geographical positioning enhances Toronto's role as a commercial and cultural nucleus, with the surrounding cities acting as complementary residential and industrial zones.
