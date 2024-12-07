@@ -43,6 +43,8 @@ Film sets are another significant temporary presence in Port Perry. The town’s
 #
 ### Neighboring Towns
 
+![Homeronto](https://github.com/user-attachments/assets/2d4ee8fd-3e9c-44af-b8e2-804b4566e5ab)
+
 Port Perry, located in Ontario, is surrounded by several charming small towns that contribute to the rural charm of the region. One such town is Uxbridge, about 20 minutes west of Port Perry. Uxbridge is known for its vibrant arts community and natural beauty, with numerous trails for hiking and cycling, including part of the Trans Canada Trail. The town also has a rich history, evident in its heritage buildings and the Uxbridge Historical Centre, making it a popular destination for those interested in culture and outdoor activities.
 
 Heading south, Whitby is another neighboring town. A larger urban center compared to Port Perry, Whitby offers more in terms of shopping, dining, and recreational facilities. It has a picturesque waterfront along Lake Ontario and a strong historical background, with attractions like the Whitby History Museum. Whitby also provides easy access to Toronto via Highway 401, making it a key commuter town. Its mix of suburban living and coastal charm gives it a unique appeal for both families and professionals.
